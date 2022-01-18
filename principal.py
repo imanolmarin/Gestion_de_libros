@@ -1,3 +1,5 @@
+__author__ = "Imanol Marin"
+
 import menus
 from functions import *
 
